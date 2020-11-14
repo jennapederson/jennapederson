@@ -1,4 +1,4 @@
-### Hey there friends 👋
+### 👋 Hey there friends!
 
 I am a Senior Developer Advocate for [AWS](https://aws.amazon.com/) and serve on the [Minnestar](https://minnestar.org) Board of Directors. I'm a community builder at :yellow_heart:&ensp;and am passionate about making space for more underrepresented folks in tech and entrepreneurship to come as their full selves.
 
