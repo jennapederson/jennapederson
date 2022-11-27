@@ -8,7 +8,7 @@ You can find me on:
 🔹 Twitter: [@jennapederson](https://twitter.com/jennapederson)  
 🔹 Mastodon: [@jenna@hachyderm.io](https://hachyderm.io/@jenna)  
 🔹 LinkedIn: [jennapederson](https://www.linkedin.com/in/jennapederson/)  
-🔹 Instagram: [@jennapederson](https://instagram.com/jennapederson)  
+🔹 Instagram: [@jennanerdsout](https://instagram.com/jennanerdsout)  
 🔹 Dev.to: [jennapederson](https://dev.to/jennapederson)  
 🔹 Website: [www.jennapederson.com](https://www.jennapederson.com)  
 
