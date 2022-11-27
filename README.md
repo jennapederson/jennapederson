@@ -1,6 +1,6 @@
 ### 👋 Hey there friends!
 
-I am a Senior Developer Advocate for [AWS](https://aws.amazon.com/) and am Board Chair of [Minnestar](https://minnestar.org). I'm a community builder at :yellow_heart:&ensp;and am passionate about making space for more underrepresented folks in tech and entrepreneurship to come as their full selves.
+I am a Senior Developer Advocate for [AWS](https://aws.amazon.com/) and Board Chair of [Minnestar](https://minnestar.org). I'm a community builder at :yellow_heart:&ensp;and am passionate about making space for more underrepresented folks in tech and entrepreneurship to come as their full selves.
 
 I go by she/her pronouns.
 
