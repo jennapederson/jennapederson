@@ -5,9 +5,10 @@ I am a Principal Developer Advocate for [AWS](https://aws.amazon.com/) and Board
 I go by she/her pronouns.
 
 You can find me on:  
-🔹 Threads: [@jennapederson](https://www.threads.net/@jennapederson)  
+🔹 Bluesky: [@jennanerdsout.com](https://bsky.app/profile/jennanerdsout.com)  
 🔹 Instagram: [@jennanerdsout](https://instagram.com/jennanerdsout)  
 🔹 LinkedIn: [jennapederson](https://www.linkedin.com/in/jennapederson/)  
+🔹 Threads: [@jennapederson](https://www.threads.net/@jennapederson)  
 🔹 Mastodon: [@jenna@hachyderm.io](https://hachyderm.io/@jenna)  
 🔹 Website: [www.jennapederson.com](https://www.jennapederson.com)  
 🔹 Dev.to: [jennapederson](https://dev.to/jennapederson)  
